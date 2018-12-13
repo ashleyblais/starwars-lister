@@ -1,0 +1,42 @@
+.title {
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: 7px;
+    text-align: center;
+    padding: 2%;
+}
+
+#loadingIndicator {
+    width: 10%;
+}
+
+#content {
+    margin: 0% auto;
+    width: 58%;
+    text-align: center;    
+}
+
+.button-styles {
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px #606060;
+    height: 40px;
+    font-size: 18px;
+    background-color: #FFFFFF;
+    background-image: url('/assets/galaxy.jpg');    
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: middle;
+    margin: .5%;
+    width: 26%;
+}
+
+.name-view-cell {
+    border: 1px solid #000000;
+    box-shadow: 2px 2px 2px #606060;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+    text-align: center;    
+    width: 80%;
+    margin: 1% auto;
+}
